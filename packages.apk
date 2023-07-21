@@ -1,0 +1,39 @@
+make
+cosign
+wl-clipboard
+ncdu
+github-cli
+# sqlite Shell history
+atuin
+# or mcfly
+# config management
+chezmoi
+neofetch
+starship
+zellij
+rtx
+neovim
+helix
+yq
+lf
+## modern unix (almost all of https://github.com/ibraheemdev/modern-unix)
+choose
+duf
+dust
+delta
+fzf
+btop
+# or bottom or glances or gtop etc
+fd
+bat
+exa
+sd
+ripgrep
+plocate
+lnav
+just
+clipboard
+tldr
+procs
+chafa
+felix
