@@ -18,7 +18,7 @@ yq
 lf
 ## modern unix (almost all of https://github.com/ibraheemdev/modern-unix)
 choose
-duf
+duf@edge
 dust
 delta
 fzf
@@ -27,13 +27,14 @@ btop
 fd
 bat
 exa
-sd
+sd@edge
 ripgrep
 plocate
 lnav
 just
 clipboard
-tldr
+tealdeer@edge
+# or tldr++
 procs
 chafa
-felix
+felix@edge

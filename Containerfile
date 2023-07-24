@@ -5,6 +5,7 @@ LABEL com.github.containers.toolbox="true" \
       summary="A cloud-native terminal experience" \
       maintainer="Daniel Yrovas"
 
+COPY repos.apk /etc/apk/repositories
 COPY packages.apk /
 RUN apk update && \
     apk upgrade && \
