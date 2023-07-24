@@ -17,6 +17,8 @@ helix
 yq
 lf
 ## modern unix (almost all of https://github.com/ibraheemdev/modern-unix)
+zsh
+zoxide
 choose
 duf@edge
 dust
